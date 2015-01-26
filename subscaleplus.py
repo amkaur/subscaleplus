@@ -7,12 +7,6 @@ import sys
 import timeit
 import os
 
-
-#dataFile=sys.argv[1]
-#EPSI=sys.argv[2]
-#TAU=sys.argv[3]
-#SPFACTOR=sys.argv[4]
-
 dataFile=sys.argv[1]
 EPSI=sys.argv[2]
 TAU=sys.argv[3]
